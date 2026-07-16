@@ -160,7 +160,7 @@ This authentication system was created for educational and portfolio purposes. I
 Intelligent Systems Engineering Student
 
 - GitHub: https://github.com/latifaalbalooshi55-hub
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: www.linkedin.com/in/latifaalbalooshi
 
 ## 📄 License
 
